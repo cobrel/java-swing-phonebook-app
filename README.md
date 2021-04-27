@@ -18,7 +18,7 @@ Screens :
 
 ![phonebook_without_ads](https://user-images.githubusercontent.com/77387138/115988074-ad04aa00-a5c0-11eb-868f-5ac521263d1b.png)
 
-- **All filters:**
+- **Filters:**
 
 ![IMG_20210425_115910](https://user-images.githubusercontent.com/77387138/115988088-c3ab0100-a5c0-11eb-9617-c87e6a986510.jpg)
 
