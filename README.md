@@ -1,6 +1,21 @@
-Java Swing Phone book connected to a mysql database. You will be able to add, edit, and delete contacts, save/download the database, search using 5 different types of filters
+Description
+-
 
-Screens :
+Java Swing Phone book connected to a mysql database.
+
+Features
+-
+
+- login
+- add contact
+- edit contacts
+- delete contacts
+- save contacts
+- search using 5 different types of filters
+
+
+Screenshots
+-
 
 - **Splash Screen:**
 
