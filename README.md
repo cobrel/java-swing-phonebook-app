@@ -25,3 +25,7 @@ Video
 -
 
 https://user-images.githubusercontent.com/77387138/181905021-3077523f-d173-4392-bb22-d7c421adbd20.mp4
+
+Screenshot
+-
+![GUI](https://user-images.githubusercontent.com/77387138/181906492-c9b78512-f0ba-4604-8db4-a5717df7c151.png)
