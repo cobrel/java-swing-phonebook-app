@@ -16,7 +16,10 @@ Features
 Latest Release / Download
 -
 
-[![release](https://img.shields.io/github/v/release/cobrel/webScrapingJavaSwingSelenium?logo=GitHub&style=for-the-badge)](https://github.com/cobrel/webScrapingJavaSwingSelenium/releases/tag/v1.0)
+[![release](https://img.shields.io/github/v/release/cobrel/webScrapingJavaSwingSelenium?logo=GitHub&style=for-the-badge)]()
+
+In order to run this app, you must have java 1.8 and mariadb installed
+Run the following command to upload the database: 
 
 Video
 -
