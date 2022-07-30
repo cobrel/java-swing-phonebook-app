@@ -18,8 +18,8 @@ Latest Release / Download
 
 [![release](https://img.shields.io/github/v/release/cobrel/webScrapingJavaSwingSelenium?logo=GitHub&style=for-the-badge)]()
 
-- In order to run this app, you must have java 1.8 and mariadb installed
-- Run the following command to upload the database: 
+- In order to run this app, you must have java 1.8 and mariadb 10.3 installed
+- Create a database (CREATE DATABASE java_app;), quit mariadb and upload the db (mysql –u root –p java_app < insertpathhere/db.sql)
 
 Video
 -
