@@ -1,9 +1,9 @@
 Description
 -
 
-Introducing the Java Phone Book, a powerful yet easy-to-use application for managing your contacts! With a user-friendly interface and seamless integration with a MySQL database.
+Introducing the Java Phone Book, an easy to use application for managing your contacts! With a user friendly interface and seamless integration with a MySQL database.
 With features such as login, add contact, edit contact, delete contact, and save contact, you can manage your contacts with ease. The search filter lets you quickly find the contacts you need, and you can choose from five preset search filters to save time.
-And that's not all! The app also allows you to save your contacts to your PC as a CSV file, so you can access them even when you're offline. Whether you're a busy professional or just looking for a better way to stay organized.
+And that's not all! The app also allows you to save your contacts to your PC as a CSV file, so you can access them even when you're offline.
 
 Latest Release / Download
 -
